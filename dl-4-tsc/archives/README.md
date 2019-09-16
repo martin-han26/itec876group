@@ -1,0 +1,1 @@
+http://www.timeseriesclassification.com/Downloads/Archives/Univariate2018_arff.zip

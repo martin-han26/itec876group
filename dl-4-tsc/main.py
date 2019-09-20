@@ -73,7 +73,7 @@ def create_classifier(classifier_name, input_shape, nb_classes, output_directory
 
 # change this directory for your machine
 # it should contain the archive folder containing both univariate and multivariate archives
-root_dir = '/Users/garylau/Documents/Macquarie University/LocalStudy/ITEC876/project/dl-4-tsc'
+root_dir = '/home/ubuntu/itec876group/dl-4-tsc≈'
 
 if sys.argv[1]=='transform_mts_to_ucr_format':
     transform_mts_to_ucr_format()
